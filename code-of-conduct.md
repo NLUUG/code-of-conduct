@@ -1,4 +1,4 @@
-Code of Conduct / Huisregels NLUUG
+**Code of Conduct / Huisregels NLUUG**
 
 De NLUUG is dé vereniging voor (professionele) gebruikers van UNIX/Linux, Open Source, Open Systemen en Open Standaarden in Nederland.  Wij verwelkomen iedereen die zich hier mee bezig houdt.
 
@@ -20,7 +20,8 @@ Mochten er situaties ontstaan die hier niet aan voldoen, dan kun je contact opne
 
 Heb je op- en/of aanmerkingen op deze huisregels / code of conduct? Neem dan ook contact met bestuur@nluug.nl 
 
-Met dank aan PublicSpaces en MCH2022 op basis waarvan wij deze huisregels hebben opgesteld. 
+_Met dank aan PublicSpaces en MCH2022 op basis waarvan wij deze huisregels hebben opgesteld._ 
 
-Versie: X.X.X 
-Laatste update op: YYYY-MM-DD
+_Versie: X.X.X 
+Laatste update op: YYYY-MM-DD_
+
