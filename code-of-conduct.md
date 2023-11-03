@@ -8,7 +8,7 @@ Van iedereen die meewerkt en/of deelneemt aan evenementen van de NLUUG wordt ver
 
 We tolereren geen intimidatie van deelnemers of discriminerend gedrag in welke vorm dan ook. Om  een beeld te vormen van ongewenst gedrag volgt hier een niet uitputtende lijst:  
 
--  Rascistische, homefobe, transfobe, vrouwonvriendelijke of ander uitsluitende vooringenomen of belededigende uitingen dan wel gedrag zijn bij ons niet welkom.
+-  Racistische, homofobe, transfobe, vrouwonvriendelijke of ander uitsluitende vooringenomen of beledigende uitingen dan wel gedrag zijn bij ons niet welkom.
 
 - Val mensen niet lastig. Stalking, fysiek contact zonder toestemming of ongewenste seksuele aandacht zijn intimidatie. Zich op een bepaalde manier kleden of gedragen is geen toestemming.
 
